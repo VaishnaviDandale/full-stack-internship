@@ -1,0 +1,1 @@
+console.log("My full-stack internship setup is working!");
